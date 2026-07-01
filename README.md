@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Electrical & Electronic Engineering** student interested in robotics and autonomous systems, and machine learning.
+**Department of Electrical and Electronic Engineering** student interested in Robotics, Autonomous systems, and Control engineering
 
 🤖 Interested in **Robotics · Autonomous Systems · Computer Vision · Physical AI**
 
