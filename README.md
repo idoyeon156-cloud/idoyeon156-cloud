@@ -33,5 +33,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/idoyeon156-cloud&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false)
