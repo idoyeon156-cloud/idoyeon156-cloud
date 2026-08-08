@@ -8,7 +8,7 @@
 ## 🧠 About Me
 - 🎓 Studying **Electrical & Electronic Engineering** with a focus on embedded systems & perception and AI
 - 🔭 Currently building projects with **Arduino, Raspberry Pi, and robot arms**
-- 🌱 Learning **TBD**
+- 🌱 Learning **ROS, Manipulator, SLAM, VLA etc...**
 - ⚡ Fun fact: I like systems that *move, see, and think*
 
 ---
