@@ -5,10 +5,10 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 - 🎓 Studying **Electrical & Electronic Engineering** with a focus on embedded systems & perception and AI
 - 🔭 Currently building projects with **Arduino, Raspberry Pi, and robot arms**
-- 🌱 Learning **ROS, Manipulator, SLAM, VLA etc...**
+- 🌱 Learning **ROS, Manipulator, SLAM, VLA, CNN**
 - ⚡ Fun fact: I like systems that *move, see, and think*
 
 ---
