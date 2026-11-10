@@ -1,7 +1,10 @@
 <img src="./profile-banner.svg" width="100%" alt="Doyeon Lee" />
 
 <p align="center">
-  Department of Electrical and Electronic Engineering
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=1000&color=6B8ABD&center=true&vCenter=true&repeat=false&width=900&height=45&lines=Department+of+Electrical+and+Electronic+Engineering"
+    alt="Department of Electrical and Electronic Engineering"
+  />
 </p>
 
 ## Hi there 👋
