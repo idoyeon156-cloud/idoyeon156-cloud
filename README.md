@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=1000&color=6B8ABD&center=true&vCenter=true&repeat=false&width=900&height=45&lines=Department+of+Electrical+and+Electronic+Engineering"
-    alt="Department of Electrical and Electronic Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=800&color=6B8ABD&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=90&lines=Department+of+Electrical+and+Electronic+Engineering;%40INHA+UNIVERSITY"
+    alt="Department of Electrical and Electronic Engineering — @INHA UNIVERSITY"
   />
 </p>
 
