@@ -1,8 +1,12 @@
+<img src="./profile-banner.svg" width="100%" alt="Doyeon Lee" />
 
+<p align="center">
+  Department of Electrical and Electronic Engineering
+</p>
 ## Hi there 👋
 **Department of Electrical and Electronic Engineering** student interested in Robotics, Autonomous systems, and Control engineering
 
-🤖 Interested in **Robotics · Autonomous Systems · Computer Vision · Physical AI**
+🤖 Interested in **Robotics · Autonomous Systems · Computer Vision · Navigation · SLAM · Physical AI**
 
 ---
 
