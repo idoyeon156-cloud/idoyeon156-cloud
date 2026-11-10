@@ -1,22 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=22272e&height=180&text=Doyeon%20Lee&fontColor=f4f6f8&fontSize=52"
-    width="100%"
-    alt="Doyeon Lee"
-  />
-</p>
-
-<p align="center">
-  <strong>Department of Electrical and Electronic Engineering</strong><br />
-  Inha University
-</p>
-
-<p align="center">
-  Robotics · Control · Autonomous Systems
-</p>
-
-<br />
-
 
 ## Hi there 👋
 **Department of Electrical and Electronic Engineering** student interested in Robotics, Autonomous systems, and Control engineering
