@@ -16,8 +16,8 @@
 
 ## About Me
 - 🎓 Studying **Electrical & Electronic Engineering** with a focus on embedded systems & perception and AI
-- 🔭 Currently building projects with **Arduino, Raspberry Pi, and robot arms**
-- 🌱 Learning **ROS, Manipulator, SLAM, VLA, CNN**
+- 🔭 Currently building projects with **Jetson AGX, Jetson Thor and robot arms**
+- 🌱 Learning **ROS, Manipulator, SLAM, VLA, NAVIGATION**
 - ⚡ Fun fact: I like systems that *move, see, and think*
 
 ---
