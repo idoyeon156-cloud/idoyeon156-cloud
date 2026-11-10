@@ -27,11 +27,12 @@
 | Category | Stack |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| **Robotics & Simulation** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square) ![MoveIt](https://img.shields.io/badge/MoveIt-4B8BBE?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-1F77B4?style=flat-square) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) |
+| **Robotics** | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![MoveIt](https://img.shields.io/badge/MoveIt-4B8BBE?style=flat-square) ![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square&logo=ros&logoColor=white) ![BehaviorTree.CPP](https://img.shields.io/badge/BehaviorTree.CPP-425A70?style=flat-square) |
+| **Simulation** | ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=flat-square) ![MuJoCo](https://img.shields.io/badge/MuJoCo-1F77B4?style=flat-square) |
 | **CAD** | ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=flat-square&logo=autodesk&logoColor=white) |
-| **Hardware & Tools** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
-| **Dev Tools** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **Hardware & Communication** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![CAN](https://img.shields.io/badge/CAN-455A64?style=flat-square) |
+| **Dev Tools** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 
 ## Development Environment
 
@@ -40,4 +41,5 @@
 | **OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
 | **ROS** | ![ROS 2](https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square&logo=ros&logoColor=white) |
 | **Python** | ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Compute** | ![Jetson](https://img.shields.io/badge/Jetson-AGX%20Orin-76B900?style=flat-square&logo=nvidia&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| **Compute** | ![Jetson AGX Orin](https://img.shields.io/badge/Jetson-AGX%20Orin-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Jetson Thor](https://img.shields.io/badge/Jetson-Thor-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| **GPU Computing** | ![CUDA](https://img.shields.io/badge/CUDA-12.6-76B900?style=flat-square&logo=nvidia&logoColor=white) |
